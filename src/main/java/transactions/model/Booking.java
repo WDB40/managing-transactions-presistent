@@ -1,4 +1,4 @@
-package transactions;
+package transactions.model;
 
 import org.springframework.lang.NonNull;
 import org.springframework.lang.NonNullFields;

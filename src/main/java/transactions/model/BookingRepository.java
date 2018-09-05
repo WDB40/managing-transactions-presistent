@@ -1,4 +1,4 @@
-package transactions;
+package transactions.model;
 
 import org.springframework.data.repository.CrudRepository;
 

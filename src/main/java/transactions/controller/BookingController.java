@@ -1,7 +1,9 @@
-package transactions;
+package transactions.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import transactions.model.Booking;
+import transactions.model.BookingRepository;
 
 import javax.transaction.Transactional;
 
